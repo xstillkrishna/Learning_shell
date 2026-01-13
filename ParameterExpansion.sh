@@ -54,3 +54,5 @@ EOF
 3.  :+      ✅       ❌     set & non-empty(Like toggle)
 4.  :?      ❌       ❌     error if missing
 5.  -       ✅       ❌     only unset
+
+EOF
