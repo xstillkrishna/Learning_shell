@@ -29,4 +29,11 @@ done
 #output---> 1)Start
 #           2)Stop
 #           3)Exit
+:<< EOF 
+#select itself is a loop
+EOF
 
+
+
+
+#XLR8_BOMBER
